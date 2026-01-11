@@ -33,6 +33,13 @@ With remaining time, I extended the system to support procedurally generated pol
 
 ---
 
+## Build
+
+**Playable build:**  
+https://drive.google.com/file/d/1RMGdEPpDu7EeAd6J-HWVWLkfBnkc38pM/view?usp=drive_link
+
+---
+
 ## Controls
 
 WASD Move · RMB Pick Up · LMB Discard · Q/E/R Rotate X/Y/Z · Ctrl Down · Space Up · Shift Boost · Esc Pause
